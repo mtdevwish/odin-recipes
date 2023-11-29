@@ -1,0 +1,45 @@
+
+* {
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+body {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 500px;
+    display: block;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    padding: 0;
+    margin: 10px 0;
+    background-color: antiquewhite;
+}
+
+h2 {
+    margin-bottom: 10px;
+    background-color: rgb(205, 255, 255);
+}
+
+.text {
+    margin: 0;
+}
+
+.goBack {
+    width: fit-content;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: rgb(214, 214, 214);
+    display: block;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+}
